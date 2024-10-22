@@ -7,8 +7,8 @@ Create the page structure for an image user interface that uses figure and figur
 Download three images from the web. Ensure the image uses a Creative Commons license (CC). Add the HTML to the page that will ensure all the images are the same height and width. Add a clickable link that will take the user out to a webpage. It can link to any page you want or it can link back to the source page the image was copied from online. Ensure you add all the attributes for the image tag. 
 
 ## Deliverables
-- [ ] I have reviewed the concept rubric
-- [ ] I created a index.html page it has
+- [X] I have reviewed the concept rubric
+- [X] I created a index.html page it has
 - [ ] Has a minimum of 3 images 
 - [ ] Images that are displayed inline using CSS3 styles 
 - [ ] Images are the same size and shape 
